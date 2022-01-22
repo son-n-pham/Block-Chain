@@ -1,6 +1,6 @@
 # Block-Chain
 
-## Blockchain Overview
+## Blockchain Basics
 ## Smart Contract
 ## Dapps
 ## Blockchain Foundation
