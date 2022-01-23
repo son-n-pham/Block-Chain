@@ -14,8 +14,14 @@
 - Because of monetary incentives, miners ensure each other's compliance with the protocol
 - The transaction contains only public key of the participating parties.
   - Transaction transfer value from and to public keys, which are called address.
+
+![image](https://user-images.githubusercontent.com/79841341/150671060-8b37cea6-47e1-49a3-9bae-7ec10d654912.png)
+
 ## 3 fundamental characteristics defining a blockchain
 - Block chain is bitcoin's main invention.
+- 2 fundamental blockchain properties:
+  - Immutable records: Immutable ledger means we can trust it to be accurate
+  - Distributed: protects the blockchain from network attacks.
 ## The important features of Ethereum blockchain
 ## Algorithms and techniques enabling a blockchain
 ## Methods for realizing trust in a blockchain
