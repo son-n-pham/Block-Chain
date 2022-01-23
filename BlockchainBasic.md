@@ -27,9 +27,9 @@
   - Both rely on crtoraphy
   - Both use digital ledger technology
 - Difference
-   | Bitcoin | Ethereum
-   | -- | --
-  Purpose | Bitcoin is a decentralized payment system and a sotre of value. Bit coint is a database of all bitcoin transactions and tracks their ownership | Etherum is more than a payment system and allows smart contract and Dapps to be built on it
+  Bitcoin | Ethereum
+  -- | --
+  Bitcoin is a decentralized payment system and a sotre of value. Bit coint is a database of all bitcoin transactions and tracks their ownership | Etherum is more than a payment system and allows smart contract and Dapps to be built on it
   
 ## 3 fundamental characteristics defining a blockchain
 - Block chain is bitcoin's main invention.
