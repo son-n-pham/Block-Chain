@@ -75,6 +75,20 @@ Block:
 
 ![image](https://user-images.githubusercontent.com/79841341/150682192-9523c110-4d69-41da-9caa-bf140ef9b5c5.png)
 
+# Basic Operations
+
+Basic options
+- Validation of transactions
+- Gathering transactions for a block
+- Broadcasting valid transactions & blocks
+- Consensus on next block creation
+- Chaining blocks
+
+Participants:
+- Participants initiate transaction
+- Miner:
+  - Works: Verify transaction, broadcast transactions, compete to create a block, reach consensus by validating block, broadcast new block, confirm transactions
+  - Miners get incentive when the above work is completed.
 
 # Temp
 ## The important features of Ethereum blockchain
@@ -82,5 +96,8 @@ Block:
 ## Methods for realizing trust in a blockchain
 
 ## References:
+https://bitcoin.org/bitcoin.pdf
+https://ethereum.org/en/whitepaper/
+https://medium.com/blockchain-review/how-does-the-blockchain-work-for-dummies-explained-simply-9f94d386e093
 https://queue.acm.org/detail.cfm?id=3136559
 https://blockgeeks.com/guides/what-is-blockchain-technology/
