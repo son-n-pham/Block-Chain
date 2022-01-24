@@ -108,7 +108,15 @@ Participants:
 
 ![image](https://user-images.githubusercontent.com/79841341/150802368-1e57ee83-7203-4ffe-a2a5-1e0c3a6ac242.png)
 
-
+## Ethereum Smart Contract
+- Add a layer of logic and computation onto the blockchain
+- Allow execute the codes
+- Enhance the basic transferability of bitcoin blockchain
+- Code is written in Solidity
+- Code is executed in Ethereum Virtual Machine
+### Discuss the smart contract
+### Illustrate Ethereum blockchain protocol, elements and operation
+### Demonstrate concept of "gas"
 
 # Temp
 ## The important features of Ethereum blockchain
