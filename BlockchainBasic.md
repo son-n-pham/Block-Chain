@@ -1,4 +1,4 @@
-# Blockchain defined: Bitcoin & Blockchain
+# Module 1: Blockchain defined: Bitcoin & Blockchain
 
 ## Bitcoin:
 ### The ledger
@@ -75,7 +75,7 @@ Block:
 
 ![image](https://user-images.githubusercontent.com/79841341/150682192-9523c110-4d69-41da-9caa-bf140ef9b5c5.png)
 
-# Basic Operations
+## Basic Operations
 
 Basic options
 - Validation of transactions
@@ -89,6 +89,26 @@ Participants:
 - Miner:
   - Works: Verify transaction, broadcast transactions, compete to create a block, reach consensus by validating block, broadcast new block, confirm transactions
   - Miners get incentive when the above work is completed.
+
+## Beyond Bitcoin
+
+### Smart Contract
+
+### 3 types of blockchains:
+#### Type 1: Only Cryptocurrency, ie. Bitcoin
+#### Type 2: Currency and business logic, ie. Ethereum
+#### Type 3: Only business logic, ie. Linux Hyperledger
+
+### Blockchain Categories based on Access Limit:
+#### Public
+#### Private
+#### Permission (Consortium)
+
+# Module 2 - Etherum Blockchain
+
+![image](https://user-images.githubusercontent.com/79841341/150802368-1e57ee83-7203-4ffe-a2a5-1e0c3a6ac242.png)
+
+
 
 # Temp
 ## The important features of Ethereum blockchain
