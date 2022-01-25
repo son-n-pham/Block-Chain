@@ -115,7 +115,56 @@ Participants:
 - Code is written in Solidity
 - Code is executed in Ethereum Virtual Machine
 ### Discuss the smart contract
+
 ### Illustrate Ethereum blockchain protocol, elements and operation
+#### Ethereum Account
+
+An Ethereum account has 4 fields:
+- Nonce: a counter to ensure each transaction can be processed only once
+- Ether balance
+- Contract code, if present
+- Storage (empty by default)
+
+There are 2 types of account:
+- Externally Owned Account:
+  - Controlled by private key
+  - Has no code
+  - Person can send message from EOA by creating and signing a transaction
+- Contract account:
+  - Controlled by its contract code, which is activated when receiving a message.
+  - Once being activated, contract account is allowed to read and write to internal storage, send other messages or create contract in turn
+
+Contract in Ethereum:
+- They are more like "autonomous agents"
+- Live inside Ethereum execution environment
+- Execute a specific piece of code when "poked" by a message or transaction
+- Have direct control over its own ether balance, its own key/value store to keep track of persistent variables.
+
+#### Messages and Transaction
+
+Transaction:
+- Defition: The signed data package storing a message to be sent from EOA
+- Components:
+  - Standard fields of any cryptocurrency:
+    - The message's recipient
+    - The sender's signature
+    - The amount of ether to transfer from the sender to the recipient
+  - An optional data field: has no function by default but has function/opcode
+  - A STARTGAS value, which is the maxium number of computational steps which the transaction execution is allowed to take
+  - A GASPRICE value, which is the fee the sender pays for each computational step
+
+The last 2 components of transaction is for anti-denial of service model as it is preventing accidental or intentional infinite loops or other computational wastage in code.
+
+Messages:
+- Defition: Virtual objects that are never serialized and exist only in the Ethereum execution environment. Contracts have ability to send "messages" to other contract. Message is similar to transaction but produced only by contract and not external actor.
+- Components:
+  - The message's sender (implicit)
+  - The message's recipient
+  - The amount of ether to transfer alongside the message
+  - An optional data field
+  - A STARTGAS value
+- Components:
+
 ### Demonstrate concept of "gas"
 
 # Temp
