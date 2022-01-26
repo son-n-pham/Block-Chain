@@ -126,7 +126,7 @@ An Ethereum account has 4 fields:
 - Storage (empty by default)
 
 There are 2 types of account:
-- Externally Owned Account:
+- Externally Owned Account (EOA):
   - Controlled by private key
   - Has no code
   - Person can send message from EOA by creating and signing a transaction
@@ -163,7 +163,6 @@ Messages:
   - The amount of ether to transfer alongside the message
   - An optional data field
   - A STARTGAS value
-- Components:
 
 ### Demonstrate concept of "gas"
 
