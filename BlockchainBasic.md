@@ -166,6 +166,39 @@ Messages:
 
 ### Demonstrate concept of "gas"
 
+# Algorithms & Techniques: 
+
+## Public-Key Cryptography
+
+## Hashing
+
+Ethereum uses hashing to generate:
+- Account addresses
+- Digital signatures
+- Transaction hash
+- State hash
+- Receipt hash
+- Block header hash
+
+## Transaction Integrity
+
+What are required for the integrity of transaction:
+- Secure & unique account address
+
+![image](https://user-images.githubusercontent.com/79841341/151668182-b7c6de26-1e93-4824-bc86-5af598962c70.png)
+
+- Authorization of the transaction by the sender through digital signing
+- Verification of the content of the transactionis not modified
+
+## Securing Blockchain
+
+![image](https://user-images.githubusercontent.com/79841341/151668769-f41e3d75-774b-4d5a-8b6f-6241f261c828.png)
+
+Purpose of block hash:
+- Verification of the integrity of the blck and the transactions
+- Formation of the "chain link" by embedding the preivous blcok hash in the current block header
+
+
 # Temp
 ## The important features of Ethereum blockchain
 ## Algorithms and techniques enabling a blockchain
