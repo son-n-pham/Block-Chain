@@ -198,6 +198,16 @@ Purpose of block hash:
 - Verification of the integrity of the blck and the transactions
 - Formation of the "chain link" by embedding the preivous blcok hash in the current block header
 
+# Trust Esstentials
+
+Trust trail:
+- Valid Tx
+- Verify gas and resources
+- Select set of Txs to create a block
+- Execute Tx to get a new state
+- Form a new block
+- Work toward consensus
+- New block added to chain and confirmed
 
 # Temp
 ## The important features of Ethereum blockchain
