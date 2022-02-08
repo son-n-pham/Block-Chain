@@ -1,5 +1,5 @@
 ```javascript
-get --networkid "12345" console // Select a local network id
+geth --networkid "12345" console // Select a local network id
 
 
 // Create 2 account and 2 nodes Node_1 and Node_2
