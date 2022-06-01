@@ -43,7 +43,7 @@
   - A decentralized network facilitating and verifying transactions
   - The immutable ledger that network maintains
 
-- It is to answer: How can we conllectively trust what happens onlin?
+- It is to answer: How can we collectively trust what happens online?
 
 # Blockchain Structures
 
