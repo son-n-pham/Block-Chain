@@ -215,8 +215,13 @@ Trust trail:
 ## Methods for realizing trust in a blockchain
 
 ## References:
+
 https://bitcoin.org/bitcoin.pdf
+
 https://ethereum.org/en/whitepaper/
+
 https://medium.com/blockchain-review/how-does-the-blockchain-work-for-dummies-explained-simply-9f94d386e093
+
 https://queue.acm.org/detail.cfm?id=3136559
+
 https://blockgeeks.com/guides/what-is-blockchain-technology/
