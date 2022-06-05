@@ -1,0 +1,7 @@
+https://www.cyberciti.biz/tips/linux-how-to-encrypt-and-decrypt-files-with-a-password.html
+
+Encrypt a file in linux, password will need to be provided
+gpg -c filename
+
+Decrypt an encrypted file
+gpg -d filename.gpg
