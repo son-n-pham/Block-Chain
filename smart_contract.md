@@ -52,3 +52,19 @@ contract Inbox {
     }
 }
 ```
+
+getMessage is 'calling' a function while setMessage is 'sending' a Transaction to a function.
+
+![image](https://user-images.githubusercontent.com/79841341/172404330-2b2abed7-226b-4f9b-a3ce-2d3570cea2aa.png)
+
+
+## Function:
+
+### Function syntax:
+
+![image](https://user-images.githubusercontent.com/79841341/172398380-20f8ccf3-9d7a-42d4-8d00-f933f6c56548.png)
+
+### Common function types:
+
+![image](https://user-images.githubusercontent.com/79841341/172397122-4b196a04-7256-42b5-a5c2-d166f1529a4c.png)
+
