@@ -53,7 +53,7 @@ contract Inbox {
 }
 ```
 
-getMessage is 'calling' a function while setMessage is 'sending' a Transaction to a function.
+getMessage is 'calling' a function while setMessage is 'sending' a Transaction to a function. Because of these, we only get the transaction hash although we add return to setMessage function.
 
 ![image](https://user-images.githubusercontent.com/79841341/172404330-2b2abed7-226b-4f9b-a3ce-2d3570cea2aa.png)
 
