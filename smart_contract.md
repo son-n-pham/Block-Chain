@@ -36,14 +36,17 @@ contract Inbox {
     // Declare all of the insance variables and their types
     string public message;
 
+    // Constructor Inbox
     function Inbox(string initialMessage) public {
         message = initialMessage;
     }
 
+    // Method setMessage
     function setMessage(string newMessage) public {
         message = newMessage;
     }
 
+    // Method getMessage
     function getMessage() public view returns (string) {
        return message;
     }
