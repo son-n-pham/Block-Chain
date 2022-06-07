@@ -19,6 +19,12 @@ Some definition:
 - Vandal: A person who deliberately destroys or damages property belonging to others.
 - Sophisticated vandalism (where the vandals can and are willing to sacrifice substantial resources, ie. a military attack by third party)
 
+Some bacic principals of contract design:
+- Observation- in order to detect thte first sign of breach and minimize losses, also is a reactive form of security. A proactive form of security is a physical mechanism that makes breach expensive.
+- Verifiability: The ability to prove to an arbitrator that a contract has been performed or breached, or the ability of the arbitrator to find this out by other means.
+- Privity: Knowledge and control over the contents and performacne of a contract should be distributed among parties only as much as is necessary for the performance that contract.
+- Enforceability: and at the same time minimizing the need for enforcement.
+
 ## First Smart Contract
 
 ```solidity
