@@ -72,3 +72,6 @@ getMessage is 'calling' a function while setMessage is 'sending' a Transaction t
 
 ![image](https://user-images.githubusercontent.com/79841341/173176818-af370dbd-2120-43e6-b050-b9d58f19bf31.png)
 
+## Testing with Mocha
+
+![image](https://user-images.githubusercontent.com/79841341/173213365-d3f6b8ee-d8af-44e8-8103-e70f39fdb2e1.png)
