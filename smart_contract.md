@@ -40,7 +40,32 @@ Web3 is the tool for developers to interact with any blockchain network
 
 #### Why did we wait?
 
+![image](https://user-images.githubusercontent.com/79841341/173236144-0077e6c9-11e8-4576-a155-a8da9f9647c5.png)
 
+Blockchain demo:
+
+https://andersbrownworth.com/blockchain/
+
+- It is starting with hash to hash an info.
+
+![image](https://user-images.githubusercontent.com/79841341/173236065-b2b8e46d-8310-4d7d-8e24-289fb98dc7eb.png)
+
+- Then expand the hash to a block with block#, Nonce, data, prev (hash)
+
+![image](https://user-images.githubusercontent.com/79841341/173236046-aa45497f-4198-47ad-9a30-852e3e67a997.png)
+
+- Then the blocks are chained together when later block use the prev hash of the previous block. The process to chain the blocks are mining. This makes a blockchain
+
+![image](https://user-images.githubusercontent.com/79841341/173236019-58da4115-3bb7-4f77-b1a5-62d7b82d6b6c.png)
+
+- We still can re-mine a blockchain. Then the distributed blockchains come as the entire blockchain info is stored in each node. When discrepancy happens at a blockchain, this can check with others to confirm the correct one.
+- Then token concept comes: Data in a block contains Tx (Transaction).
+
+![image](https://user-images.githubusercontent.com/79841341/173235978-9b47762f-5241-434e-b567-0b3a0b0d844b.png)
+
+- To check if the sender have money, coinbase concept comes to traceback if the sender has enough money (coin). The traceback is quick by using Prev hash.
+
+![image](https://user-images.githubusercontent.com/79841341/173235958-050813a1-5159-42ae-b594-6bdc6cdd065b.png)
 
 ## First Smart Contract
 
