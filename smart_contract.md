@@ -11,7 +11,7 @@ https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTw
 
 ### Basic idea of smart contracts:
 
-Many kinds of contratual clauses can be embedded in the hardware and software we deal with, in such a way as to make breach of contract expensive (if desired, sometimes prohibitively so) for the breacher => Key idea of smart contracts is to embed them in the word. The contract should be:
+Many kinds of contractual clauses can be embedded in the hardware and software we deal with, in such a way as to make breach of contract expensive (if desired, sometimes prohibitively so) for the breacher => Key idea of smart contracts is to embed them in the word. The contract should be:
 - Robust against naive vandalism
 - Robust against sophisticated, incentive compatible breach
 
