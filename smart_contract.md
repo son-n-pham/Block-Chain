@@ -25,6 +25,20 @@ Some bacic principals of contract design:
 - Privity: Knowledge and control over the contents and performacne of a contract should be distributed among parties only as much as is necessary for the performance that contract.
 - Enforceability: and at the same time minimizing the need for enforcement.
 
+### Transaction
+
+![image](https://user-images.githubusercontent.com/79841341/173215760-a752384a-c439-46c9-982c-c574e66fe780.png)
+
+#### Web3
+Web3 is the tool for developers to interact with any blockchain network
+
+![image](https://user-images.githubusercontent.com/79841341/173216013-527e63ef-9668-4d8b-99e7-d92c3e38af0a.png)
+
+#### What is transaction
+
+![image](https://user-images.githubusercontent.com/79841341/173215706-07eaaeae-4a96-4543-969b-a2fd4980ef48.png)
+
+
 ## First Smart Contract
 
 ```solidity
@@ -74,9 +88,11 @@ getMessage is 'calling' a function while setMessage is 'sending' a Transaction t
 
 ## Testing with Mocha
 
+### Mocha Function
+
 ![image](https://user-images.githubusercontent.com/79841341/173213365-d3f6b8ee-d8af-44e8-8103-e70f39fdb2e1.png)
 
-Example of testing with Mocha:
+### Example of testing with Mocha
 ```js
 // PLAYING AROUND WITH MOCHA TO PRACTIsE TESTING
 class Car {
@@ -107,3 +123,5 @@ describe('Car', () => {
 		assert.equal(car.drive(), 'vroom')});
 	});
 ```
+
+### Mocha Structure
