@@ -67,9 +67,9 @@ https://andersbrownworth.com/blockchain/
 
 ![image](https://user-images.githubusercontent.com/79841341/173235958-050813a1-5159-42ae-b594-6bdc6cdd065b.png)
 
-- Changing None to mine:
+- Changing None to mining:
 
-![image](https://user-images.githubusercontent.com/79841341/173236759-f0713816-5008-4602-91cb-416f5f26c800.png)
+![image](https://user-images.githubusercontent.com/79841341/173236933-4b30c694-3c9e-4139-9b40-198e0ffc395b.png)
 
 ## First Smart Contract
 
