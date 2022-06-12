@@ -38,6 +38,7 @@ Web3 is the tool for developers to interact with any blockchain network
 
 ![image](https://user-images.githubusercontent.com/79841341/173215706-07eaaeae-4a96-4543-969b-a2fd4980ef48.png)
 
+#### Why did we wait
 
 ## First Smart Contract
 
