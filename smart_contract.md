@@ -78,7 +78,7 @@ getMessage is 'calling' a function while setMessage is 'sending' a Transaction t
 
 Example of testing with Mocha:
 ```js
-// PLAYING AROUND WITH MOCHA TO PRACTICE TESTING
+// PLAYING AROUND WITH MOCHA TO PRACTIsE TESTING
 class Car {
 	park() {
 		return 'stopped';
