@@ -67,6 +67,10 @@ https://andersbrownworth.com/blockchain/
 
 ![image](https://user-images.githubusercontent.com/79841341/173235958-050813a1-5159-42ae-b594-6bdc6cdd065b.png)
 
+- Changing None to mine:
+
+![image](https://user-images.githubusercontent.com/79841341/173236759-f0713816-5008-4602-91cb-416f5f26c800.png)
+
 ## First Smart Contract
 
 ```solidity
