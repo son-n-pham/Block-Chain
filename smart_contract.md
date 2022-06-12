@@ -75,3 +75,35 @@ getMessage is 'calling' a function while setMessage is 'sending' a Transaction t
 ## Testing with Mocha
 
 ![image](https://user-images.githubusercontent.com/79841341/173213365-d3f6b8ee-d8af-44e8-8103-e70f39fdb2e1.png)
+
+Example of testing with Mocha:
+```js
+// PLAYING AROUND WITH MOCHA TO PRACTICE TESTING
+class Car {
+	park() {
+		return 'stopped';
+	}
+	drive() {
+		return 'vroom';
+	}
+}
+
+// Declare car variable first so that the instance car is generated and passed to describe
+let car;
+
+// Pre-setup before each test
+beforeEach (() => {
+	car = new Car();
+});
+
+describe('Car', () => {
+	it('can park', () => {
+		// const car = new Car();
+		assert.equal(car.park(), 'stopped');
+	});
+
+	it('can drive', () => {
+		// const car = new Car();
+		assert.equal(car.drive(), 'vroom')});
+	});
+```
