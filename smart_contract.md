@@ -71,6 +71,18 @@ https://andersbrownworth.com/blockchain/
 
 ![image](https://user-images.githubusercontent.com/79841341/173236933-4b30c694-3c9e-4139-9b40-198e0ffc395b.png)
 
+- This results why it takes time.
+
+![image](https://user-images.githubusercontent.com/79841341/173236974-5582d1be-9d1a-444d-be8f-8cbe0341b69b.png)
+
+### Smart Contract
+
+Smart contract is an account controlled by code.
+
+Process of deploying a smart contract, and the relation between external accounts and smart contracts.
+
+![image](https://user-images.githubusercontent.com/79841341/173237476-68371df8-f829-444e-b767-93c5edb4db33.png)
+
 ## First Smart Contract
 
 ```solidity
